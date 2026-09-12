@@ -1,5 +1,6 @@
 ### 📊 Business Analyst Case Study: Apple's Supply Chain Turnaround
 
+![Thumbnail Description](assets/apple.png)
 #### 1. 🏢 Case Study Introduction
 *   **Company:** Apple
 *   **Industry:** Consumer Electronics & Technology
